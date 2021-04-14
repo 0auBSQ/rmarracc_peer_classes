@@ -37,7 +37,7 @@ Ligne 1 - N : Profondeur de chaque noeud (affichés dans l'ordre donné en entr�
 ```
 
 Informations supplémentaires :
-- Un arbre n'aura toujours qu'un seul parent ici
+- Un noeud n'aura toujours qu'un seul parent ici
 - Les noeuds sont données en entrée de manière aléatoire, indépendament de leur profondeur (le premier noeud donné en entrée peut être situé n'importe ou dans l'arbre)
 
 Contraintes spécifiques :
